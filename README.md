@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&lines=Hello+There!;I%E2%80%99m+Pratik.+)](https://git.io/typing-svg)
 
 <!--
 **Comder101/Comder101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=comder101)](https://github.com/comder101/github-readme-stats)
