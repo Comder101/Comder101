@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&lines=Hello+There!;I%E2%80%99m+Pratik aka /Comder101.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&lines=Hello+There!;I%E2%80%99m+/Comder101.)](https://git.io/typing-svg)
 
 <!--
 **Comder101/Comder101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
