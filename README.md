@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/Comder101/Wordcloudx">
    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Comder101&repo=wordcloudx&show_owner=true" />
 </a>
-<a href="https://github.com/Comder101/Modi_bhakt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Comder101&repo=modi_bhakt&show_owner=true" />
-</a>
+
 
