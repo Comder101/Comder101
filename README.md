@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 -->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=comder101&hide=stars&count_private=true&show_icons=true&include_all_commits=true&card_width=600px)](https://github.com/comder101/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Comder101&repo=newsaggregator2.0&show_owner=true)](https://github.com/Comder101/NewsAggregator2.0)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Comder101&repo=wordcloudx)](https://github.com/Comder101/Wordcloudx)
+<a href="https://github.com/Comder101/NewsAggregator2.0">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Comder101&repo=newsaggregator2.0&show_owner=true" />
+</a>
+<a href="https://github.com/Comder101/Wordcloudx">
+   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Comder101&repo=wordcloudx&show_owner=true" />
+</a>
+<a href="https://github.com/Comder101/Modi_bhakt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Comder101&repo=modi_bhakt&show_owner=true" />
+</a>
 
