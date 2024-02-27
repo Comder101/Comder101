@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My GitHub stats](https://github-readme-statsme.vercel.app/api?username=comder101&hide=stars&count_private=true&show_icons=true&include_all_commits=true&card_width=600px)](https://github.com/Comder101/github-readme-statsme)
+[![My GitHub stats](https://github-readme-statsme.vercel.app/api?username=comder101&hide=stars&count_private=true&show_icons=true&include_all_commits=true&card_width=600px&rank_icon=percentile)](https://github.com/Comder101/github-readme-statsme)
 
 
 <a href="https://github.com/Comder101/NewsAggregator2.0">
