@@ -44,6 +44,6 @@ Do connect with me on LinkedIn : [![LinkedIn](https://img.shields.io/badge/Linke
 <a href="https://github.com/Comder101/NewsAggregator2.0">
   <img align="left" src="https://github-readme-statsme.vercel.app/api/pin/?username=Comder101&repo=newsaggregator2.0&show_owner=true" />
 </a>
-<a href="https://github.com/Comder101/Mental-Health.chatbot">
-   <img align="right" src="https://github-readme-statsme.vercel.app/api/pin/?username=Comder101&repo=Mental-Health.chatbot&show_owner=true" />
+<a href="https://github.com/Comder101/Wordcloudx">
+   <img align="right" src="https://github-readme-statsme.vercel.app/api/pin/?username=Comder101&repo=wordcloudx&show_owner=true" />
 </a>
