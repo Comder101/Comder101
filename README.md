@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 </a>
 
 
-[![Spotify](https://now-playing-spotify-beryl.vercel.app/?background_color=0d1117&border_color=ffffff)]
+[![Spotify](https://now-playing-spotify-beryl.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
