@@ -47,5 +47,3 @@ Do connect with me on LinkedIn : [![LinkedIn](https://img.shields.io/badge/Linke
 <a href="https://github.com/Comder101/Mental-Health.chatbot">
    <img align="right" src="https://github-readme-statsme.vercel.app/api/pin/?username=Comder101&repo=Mental-Health.chatbot&show_owner=true" />
 </a>
-
-
