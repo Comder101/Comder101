@@ -23,5 +23,5 @@ Here are some ideas to get you started:
    <img align="right" src="https://github-readme-statsme.vercel.app/api/pin/?username=Comder101&repo=wordcloudx&show_owner=true" />
 </a>
 
-
+<br><br>
 [![Spotify](https://now-playing-spotify-beryl.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
