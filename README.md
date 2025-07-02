@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! I'm a passionate software developer from Pune, India with a focus on full-stack development and a love for open-source contributions.
+Welcome to my GitHub profile! I'm a passionate Software Developer from Pune, India with a focus on full-stack development and a love for open-source contributions.
 
 Do connect with me on LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/pratikvmore/)
 
