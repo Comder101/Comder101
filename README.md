@@ -39,7 +39,7 @@ Do connect with me on LinkedIn : [![LinkedIn](https://img.shields.io/badge/Linke
 - Secured the highest marks (98/100) in the Intelligence Test of the Maharashtra Scholarship Exam.
 - Contributed to Hacktoberfest 2022, fostering collaboration in the developer community through open-source projects.
 - Selected for Stanford's prestigious Code in Place 2024 program.
-- Achieved top rank in Diamond league of Duolingo, learning Japanese for the past 4 months.
+- Achieved top rank in Diamond league of Duolingo, learning Japanese for the past 8 months.
 
 <a href="https://github.com/Comder101/NewsAggregator2.0">
   <img align="left" src="https://github-readme-statsme.vercel.app/api/pin/?username=Comder101&repo=newsaggregator2.0&show_owner=true" />
