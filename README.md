@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! I'm a passionate Software Developer from Pune, India with a focus on full-stack development and a love for open-source contributions.
+Welcome to my GitHub profile ! I'm a passionate Software Developer from Pune, India with a focus on full-stack development and a love for open-source contributions.
 
 Do connect with me on LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/pratikvmore/)
 
@@ -41,9 +41,9 @@ Do connect with me on LinkedIn : [![LinkedIn](https://img.shields.io/badge/Linke
 - Selected for Stanford's prestigious Code in Place 2024 program.
 - Achieved top rank in Diamond league of Duolingo, learning Japanese for the past 8 months.
 
-<a href="https://github.com/Comder101/NewsAggregator2.0">
-  <img align="left" src="https://github-readme-statsme.vercel.app/api/pin/?username=Comder101&repo=newsaggregator2.0&show_owner=true" />
+<a href="https://github.com/Comder101/Admindb-platform">
+  <img align="left" src="https://github-readme-statsme.vercel.app/api/pin/?username=Comder101&repo=Admindb-platform&show_owner=true" />
 </a>
-<a href="https://github.com/Comder101/Wordcloudx">
-   <img align="right" src="https://github-readme-statsme.vercel.app/api/pin/?username=Comder101&repo=wordcloudx&show_owner=true" />
+<a href="https://github.com/Comder101/Devstar_img.extractor">
+   <img align="right" src="https://github-readme-statsme.vercel.app/api/pin/?username=Comder101&repo=Devstar_img.extractor&show_owner=true" />
 </a>
